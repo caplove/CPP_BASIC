@@ -2,8 +2,11 @@
 case 1. 솔루션 1개에 프로젝트 2개 (DLL과 App) 
 
 솔루션(1) - 프로젝트(2) - 소스파일/헤더파일
-math        mathDLL     - dllmain.cpp, framework.h,  pch.cpp/pch.h,   myfunc1.cpp/myfunc1.h, myfunc1.cpp/myfunc1.h,
+
+math        mathDLL     - dllmain.cpp, framework.h,  pch.cpp/pch.h,   myfunc1.cpp/myfunc1.h, myfunc1.cpp/myfunc1.h
+
             mathApp     - mainApp.cpp/mainApp.h
+
 
 ![image](https://user-images.githubusercontent.com/24836829/223585091-9dce1466-664b-4edf-8915-448054114f7a.png)
 ![image](https://user-images.githubusercontent.com/24836829/223585107-29f19a1d-3c8c-42fc-9569-718167c56778.png)
