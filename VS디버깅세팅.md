@@ -9,7 +9,9 @@ math  -->      mathDLL   --> dllmain.cpp, framework.h,  pch.cpp/pch.h,   myfunc1
 
 myfunc1.cpp![image](https://user-images.githubusercontent.com/24836829/223585091-9dce1466-664b-4edf-8915-448054114f7a.png)
 
-myfunc1.h![image](https://user-images.githubusercontent.com/24836829/223585107-29f19a1d-3c8c-42fc-9569-718167c56778.png)
+myfunc1.h![image](https://user-images.githubusercontent.com/24836829/223588232-3b59d0ef-09eb-49aa-80b9-2559408fc0bc.png)
+
+mainApp.cpp![image](https://user-images.githubusercontent.com/24836829/223588156-9759887f-5cbd-4539-b655-e464f4cbb8a1.png)
 
 
 C++ DLL 프로젝트 생성 예제
