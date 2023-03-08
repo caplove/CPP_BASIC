@@ -35,3 +35,11 @@ https://learn.microsoft.com/ko-kr/cpp/build/walkthrough-creating-and-using-a-dyn
 
 방법: Visual Studio의 DLL 프로젝트에서 디버그(C#, C++, Visual Basic, F#)
 https://learn.microsoft.com/ko-kr/visualstudio/debugger/how-to-debug-from-a-dll-project?view=vs-2019
+
+
+[키보드로 메뉴 접근 하려면]
+
+![image](https://user-images.githubusercontent.com/24836829/223589405-b10534ee-46ba-43b8-9d35-5b43bfd749ba.png)
+
+ALT-T -->  L  --> C
+
