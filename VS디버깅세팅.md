@@ -37,8 +37,8 @@ https://learn.microsoft.com/ko-kr/cpp/build/walkthrough-creating-and-using-a-dyn
 https://learn.microsoft.com/ko-kr/visualstudio/debugger/how-to-debug-from-a-dll-project?view=vs-2019
 
 
-[키보드로 메뉴 접근 하려면]
+[키보드로 메뉴 접근 하려면  ALT-T -->  L  --> C]
 
 ![image](https://user-images.githubusercontent.com/24836829/223589846-7304d06e-fc2f-446d-8da0-e25c15f4818c.png)
-ALT-T -->  L  --> C
+
 
