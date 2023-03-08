@@ -1,4 +1,5 @@
-[VS 기본 구성]
+- 기본 구조 구성
+
 case 1. 솔루션 1개에 프로젝트 2개 (DLL과 App) 
 
 솔루션(1) --> 프로젝트(2) --> 소스파일/헤더파일
@@ -13,6 +14,7 @@ myfunc1.h![image](https://user-images.githubusercontent.com/24836829/223588232-3
 
 mainApp.cpp![image](https://user-images.githubusercontent.com/24836829/223588156-9759887f-5cbd-4539-b655-e464f4cbb8a1.png)
 
+[참고 사이트]
 
 C++ DLL 프로젝트 생성 예제
 https://luckygg.tistory.com/278
