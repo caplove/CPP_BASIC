@@ -39,7 +39,7 @@ https://learn.microsoft.com/ko-kr/visualstudio/debugger/how-to-debug-from-a-dll-
 
 [키보드로 메뉴 접근 하려면]
 
-![image](https://user-images.githubusercontent.com/24836829/223589405-b10534ee-46ba-43b8-9d35-5b43bfd749ba.png)
+![image](https://user-images.githubusercontent.com/24836829/223589590-1d4afe70-fe61-42bf-9969-948e0cb14b58.png)
 
 ALT-T -->  L  --> C
 
