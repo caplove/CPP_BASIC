@@ -14,6 +14,16 @@ myfunc1.h![image](https://user-images.githubusercontent.com/24836829/223588232-3
 
 mainApp.cpp![image](https://user-images.githubusercontent.com/24836829/223588156-9759887f-5cbd-4539-b655-e464f4cbb8a1.png)
 
+
+[VS 환경세팅]
+mathDLL 구성 > 디버깅 > 명령 > mathApp.exe
+mathApp 구성 > 링커 > 일반 / 입력 dll 위치 선정 ( 확인 필요)
+
+
+
+
+
+
 [참고 사이트]
 
 C++ DLL 프로젝트 생성 예제
