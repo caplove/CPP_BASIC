@@ -26,6 +26,9 @@ mathApp 구성 > 링커 > 일반 / 입력 dll 위치 선정 ( 확인 필요)
 
 [참고 사이트]
 
+플러그인 구조 만들기
+https://luckygg.tistory.com/265
+
 C++ DLL 프로젝트 생성 예제
 https://luckygg.tistory.com/278
 
