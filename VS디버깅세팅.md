@@ -32,17 +32,18 @@ https://luckygg.tistory.com/265
 C++ DLL 프로젝트 생성 예제
 https://luckygg.tistory.com/278
 
-
 DLL을 탐색할 수 있는 Dependency Walker 
 https://bigenergy.tistory.com/entry/%EC%B0%B8%EC%A1%B0-DLL-%EC%B0%BE%EC%95%84%EC%A3%BC%EB%8A%94-Dependency-Walker-%EC%82%AC%EC%9A%A9%EB%B2%95
-
 
 DLL오류 해결 (없는 DLL 찾아 깔아줌)
 https://blog.naver.com/thekernel/221681326676
 
+나무위키
+https://wikidocs.net/14011
 
 
 [MS 홈페이지]
+
 연습: 자체 동적 연결 라이브러리 만들기 및 사용(C++)
 https://learn.microsoft.com/ko-kr/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-160
 
