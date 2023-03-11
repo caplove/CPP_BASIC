@@ -38,7 +38,7 @@ https://bigenergy.tistory.com/entry/%EC%B0%B8%EC%A1%B0-DLL-%EC%B0%BE%EC%95%84%EC
 DLL오류 해결 (없는 DLL 찾아 깔아줌)
 https://blog.naver.com/thekernel/221681326676
 
-나무위키
+나무위키 
 https://wikidocs.net/14011
 
 
