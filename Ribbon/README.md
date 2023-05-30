@@ -6,8 +6,12 @@ Frame과 View창 연동 방법 Class 활용
 
 ![image](https://github.com/caplove/CPP_BASIC/assets/24836829/4ace75dc-845c-43ec-b293-9f3fed652192)
 
-버튼1, 버튼2, 버튼3 누를때, View창에 표시
+예) 버튼1, 버튼2, 버튼3 누를때, View창에 표시하려면
+
+Frame의 OnButton()함수
 
 ![image](https://github.com/caplove/CPP_BASIC/assets/24836829/49353dc7-b475-474e-847d-db7ded0d93d8)
+
+View의 OnPaint()함수
 
 ![image](https://github.com/caplove/CPP_BASIC/assets/24836829/3a8d6fb3-31bc-45df-827a-33e2126502af)
